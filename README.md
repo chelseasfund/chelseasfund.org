@@ -16,6 +16,7 @@ Requirements
 ### Prerequisites
 
 * [rbenv](https://github.com/rbenv/rbenv)
+* [ruby-build](https://github.com/rbenv/ruby-build)
 
 Setup
 -----
