@@ -48,7 +48,7 @@ health care and decision-making control over their own body. Please
 help us provide reproductive justice to Wyoming!
 
 You can [**donate to us online** via
-PayPal](https://www.paypal.com/donate?hosted_button_id=TNQ2887TN4NT4). Or
+PayPal](https://www.paypal.com/donate?hosted_button_id=NR88FU8XPDRN6). Or
 by **mailing a check** made out for "Chelsea's Fund" to:
 
 Chelsea's Fund  

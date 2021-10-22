@@ -28,6 +28,6 @@ message. We will get back to you within 1 business day.
 Lander, WY. See [pictures and details here](/billboard).**
 
 If you'd like to support abortion access in Wyoming, you can
-[donate to us online](https://www.paypal.com/donate?hosted_button_id=TNQ2887TN4NT4).
+[donate to us online](https://www.paypal.com/donate?hosted_button_id=NR88FU8XPDRN6).
 See [About Us](/about/#donations) for more information and additional
 donation options.
