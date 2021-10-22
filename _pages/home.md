@@ -24,8 +24,8 @@ you just need to speak to someone directly, **call us at
 {{site.author.phone }}**. If we don't answer, please leave a
 message. We will get back to you within 1 business day.
 
-**We recently put up a billboard supporting the right to choose in
-Lander, WY. See [pictures and details here](/billboard).**
+**We recently put up billboards supporting the right to choose in
+Lander and Riverton, WY. See [pictures and details here](/billboard).**
 
 If you'd like to support abortion access in Wyoming, you can
 [donate to us online](https://www.paypal.com/donate?hosted_button_id=NR88FU8XPDRN6).
