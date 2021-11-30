@@ -11,6 +11,20 @@
     background-color: #ffffff;
 }
 
+.author__note {
+
+    padding: 1px;
+    
+    a {
+        cursor: pointer;
+        color: inherit;
+        text-decoration: none;
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}
+
 .providers_list {
     
     cursor: default;
