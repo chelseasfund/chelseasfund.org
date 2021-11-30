@@ -8,6 +8,16 @@ Womens Health and Family Care:
   medical: "Up to 10 weeks after last period"  
   medical_cost: "$600"
 
+JustThePill.com:
+  name: "JustThePill.com"
+  note: "JustThePill is an online abortion provider that provides
+         telehealth services and mails abortion pills to your home.
+         They are now delivering pills to Wyoming addresses."
+  state: "WY"
+  url: "https://justthepill.com/"
+  medical: "Up to 10 weeks after last period"  
+  medical_cost: "$350"
+
 Planned Parenthood FtCo:
   name: "Planned Parenthood, Ft. Collins"
   note: "Abortions provided on Thursday, Friday, and Saturday"
@@ -45,7 +55,7 @@ Planned Parenthood Stapleton:
   surgical_cost: "$490 to $1363"
 
 Planned Parenthood Steamboat:
-  name: "Planned Parenthood, Steamboat:"
+  name: "Planned Parenthood, Steamboat"
   note:
   state: "CO"
   address: "111 11th Street, Unit 102, Steamboat Springs, CO"
@@ -66,13 +76,13 @@ Boulder Valley Health Center:
   surgical: "5 to 14 weeks after last period"  
   surgical_cost: "$500 to $600"
 
-Comprehensive Womens Health Center:
+Comprehensive Women's Health Center:
   name: "Comprehensive Women’s Health Center"
   note:
   state: "CO"
   address: "8111 E Lowery Blvd, Suite 250, Denver, CO"
   url: "https://cwhccolorado.com/"
-  phone: "720-810-5442"
+  phone: "303-724-8576"
   medical: "Up to 10 weeks after last period"  
   medical_cost: "$450"
   surgical: "6 to 21 weeks after last period"  
@@ -158,3 +168,4 @@ Planned Parenthood Boise:
   phone: "800-769-0045"
   medical: "Up to 10 weeks after last period"  
   medical_cost: "Call for Cost"
+  
