@@ -16,7 +16,7 @@ provide you with the specific information relevant to your needs.
 Providers generally provide one or both of the following
 abortion methods:
 
-* **Medication Abortion (a.k.a. The Abortion Pill):** This method of abortion
+* **Medication Abortion (a.k.a. the abortion pill):** This method of abortion
     uses [medication](https://www.plannedparenthood.org/learn/abortion/the-abortion-pill)
     to end a pregnancy. It is generally available during the first 10
     weeks pregnancy (up to 10 weeks after the first day of your
