@@ -14,7 +14,7 @@ Chelsea's Fund ([formerly known as Women for Women](/newname))
 provides information about [abortion providers](/providers) relevant
 to Wyoming residents. We also offer [financial assistance](/financial)
 to those who would otherwise not be able to afford an
-[abortion](/abortion). Reproductive justice demands that reproductive
+abortion. Reproductive justice demands that reproductive
 health care and the right to self-determination be available to all,
 not just those with financial resources.
 

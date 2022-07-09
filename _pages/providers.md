@@ -14,24 +14,22 @@ provide you with the specific information relevant to your needs.
 ## General Information
 
 Providers generally provide one or both of the following
-[abortion](/abortion) methods:
+abortion methods:
 
-* **Medical Abortion (a.k.a. The Abortion Pill):** This method of abortion
-    uses a [course of
-    medication](https://www.plannedparenthood.org/learn/abortion/the-abortion-pill)
+* **Medication Abortion (a.k.a. The Abortion Pill):** This method of abortion
+    uses [medication](https://www.plannedparenthood.org/learn/abortion/the-abortion-pill)
     to end a pregnancy. It is generally available during the first 10
     weeks pregnancy (up to 10 weeks after the first day of your
     last period).
-* **Surgical Abortion:** This method of abortion involves a doctor
-    [surgically ending](https://www.plannedparenthood.org/learn/abortion/in-clinic-abortion-procedures)
-    a pregnancy. It is generally available through the second
-    trimester of pregnancy (up to 21 weeks after the first day of your
-    last period).
+* **Procedural Abortion:** This method of abortion is generally available
+    through the second trimester of pregnancy (up to 21 weeks after the
+    first day of your last period). Depending on where you are in your
+    preganacy, it may be by vacuum aspiration or dilation and evacuation. 
 
 Abortion costs vary by provider and length of pregnancy. In general,
 later term abortions are more expensive than earlier term abortions,
-and surgical abortions are more expensive than medical
-abortions. Abortions involving IV sedation (some surgical procedures)
+and procedural abortions are more expensive than medication
+abortions. Abortions involving IV sedation (some procedures)
 or for individuals who are [Rh
 negative](https://www.acog.org/Patients/FAQs/The-Rh-Factor-How-It-Can-Affect-Your-Pregnancy)
 may incur additional charges. **[Chelsea's Fund](/) can provide

@@ -48,24 +48,24 @@
       </li>
       {% endif %}
 
-      {% if provider.medical %}
+      {% if provider.medication %}
       <li>
         <i class="fas fa-fw fa-medkit" aria-hidden="true"></i>
-        <strong>Medical:</strong>
-        {{ provider.medical }}
-        {% if provider.medical_cost %}
-        &mdash; <strong>{{ provider.medical_cost }}</strong>
+        <strong>Medication:</strong>
+        {{ provider.medication }}
+        {% if provider.medication_cost %}
+        &mdash; <strong>{{ provider.medication_cost }}</strong>
         {% endif %}
       </li>
       {% endif %}
 
-      {% if provider.surgical %}
+      {% if provider.procedural %}
       <li>
         <i class="fas fa-fw fa-user-md" aria-hidden="true"></i>
-        <strong>Surgical:</strong>
-        {{ provider.surgical }}
-        {% if provider.surgical_cost %}
-        &mdash; <strong>{{ provider.surgical_cost }}</strong>
+        <strong>Procedural:</strong>
+        {{ provider.procedural }}
+        {% if provider.procedural_cost %}
+        &mdash; <strong>{{ provider.procedural_cost }}</strong>
         {% endif %}
       </li>
       {% endif %}

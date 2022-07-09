@@ -6,8 +6,7 @@ toc: true
 ---
 
 This page answers questions frequently asked of [Chelsea's Fund](/)
-regarding both [abortion](/abortion) and [the organization
-itself](/about).
+regarding both abortion and [the organization itself](/about).
 
 ## How common is abortion?
 
@@ -16,8 +15,7 @@ the age of
 45](https://www.guttmacher.org/fact-sheet/induced-abortion-united-states). People
 have abortions for many valid reasons, including their health, their
 finances, their age, their career goals, their family situation, and
-other reasons. Please see our [About Abortion](/abortion) page for
-more information.
+other reasons.
 
 ## Where can I get an abortion?
 
