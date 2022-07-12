@@ -17,9 +17,8 @@ Providers generally provide one or both of the following
 abortion methods:
 
 * **Medication Abortion (a.k.a. the abortion pill):** This method of abortion
-    uses [medication](https://www.plannedparenthood.org/learn/abortion/the-abortion-pill)
-    to end a pregnancy. It is generally available during the first 10
-    weeks pregnancy (up to 10 weeks after the first day of your
+    uses medication to end a pregnancy. It is generally available during the
+    first 10 weeks of pregnancy (up to 10 weeks after the first day of your
     last period).
 * **Procedural Abortion:** This method of abortion is generally available
     through the second trimester of pregnancy (up to 21 weeks after the
@@ -39,8 +38,8 @@ may incur additional charges. **[Chelsea's Fund](/) can provide
 of your intent to receive an abortion and provide consent. Parental
 consent is currently required in Wyoming, Colorado, Montana, and
 Utah. To find out more about the specific requirements of the state
-where you will have the abortion and that state's judicial bypass options, contact
-the clinic where you plan to get your abortion.
+where you will have the abortion and that state's judicial bypass
+options, contact the clinic where you plan to get your abortion.
 
 ## Providers
 
@@ -83,6 +82,10 @@ information.
 
 ### <span style="color: #DC7633">Utah</span>
 
+**Litigation challenging Utah’s effective abortion ban following the
+recent Supreme Court decision is ongoing. Check with the clinics
+to see if they are open.**
+
 In Utah, parental consent is required for patients under age 18. A
 judge may excuse you from this requirement. Contact clinics for more
 information.
@@ -91,7 +94,7 @@ information.
 counseling session 72 hours before beginning an abortion procedure,
 often necessitating two trips to the provider. However, you MAY be able 
 to satisfy this requirement with a telehealth (phone) session. Be sure to ask.** 
-Those able to access clinics in Jackson, WY, Colorado, or Montana should 
+Those able to access clinics in Wyoming, Colorado, or Montana should 
 consider whether one of those clinics, where no such counseling 
 (and extra trip) is required, is a better option.
 
@@ -99,15 +102,19 @@ consider whether one of those clinics, where no such counseling
 
 ### <span style="color: #CD6155">Idaho</span>
 
+**Litigation challenging Idaho’s effective abortion ban following the
+recent Supreme Court decision is ongoing. Check with the clinics
+to see if they are open.**
+
 In Idaho, parental consent is required for patients under age 18. A
 judge may excuse you from this requirement. Contact clinics for more
 information.
 
 **Idaho requires participating in a state-directed counseling session
-  24 hours before beginning an abortion procedure.** This may require
-  multiple trips to the provider. If you are able to access clinics in
-  Jackson, WY, Colorado, or Montana, consider whether one of
-  those clinics, where no such counseling (and extra trip) is
-  required, is a better option for you.
+24 hours before beginning an abortion procedure.** This may require
+multiple trips to the provider. If you are able to access clinics in
+Wyoming, Colorado, or Montana, consider whether one of
+those clinics, where no such counseling (and extra trip) is
+required, is a better option for you.
 
 {% include providers.html state='ID' color='#CD6155' %}
