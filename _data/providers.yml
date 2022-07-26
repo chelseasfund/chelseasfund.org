@@ -1,6 +1,7 @@
 Womens Health and Family Care:
   name: "Women’s Health and Family Care"
-  note:
+  note: "Most remaining appointments are booked prior to the
+         July 27th Wyoming abortion ban taking effect."
   state: "WY"
   address: "555 E Broadway, Suite 108, Jackson, Wyoming"
   url: "https://whfcjackson.com/"
@@ -128,7 +129,7 @@ Planned Parenthood Helena:
 Blue Mountain Clinic:
   name: "Blue Mountain Clinic"
   note: "Listed here as a possible option for early second trimester abortions for
-         Teton County area residents "
+         Teton County area residents."
   state: "MT"
   address: "610 N. California, Missoula, MT"
   url: "http://www.bluemountainclinic.org/"
@@ -136,6 +137,18 @@ Blue Mountain Clinic:
   medication: "Up to 10 weeks after last period"  
   medication_cost: "Call for Cost"
   procedural: "Up to 16 weeks after last period"  
+  procedural_cost: "Call for Cost"
+
+All Families Healthcare:
+  name: "All Families Healthcare:"
+  note:
+  state: "MT"
+  address: "737 Spokane Avenue, Whitefish, MT"
+  url: "https://www.allfamilieshealth.org/"
+  phone: "406-730-8682"
+  medication: "Up to 11 weeks after last period"  
+  medication_cost: "Call for Cost"
+  procedural: "Up to 12 weeks after last period"  
   procedural_cost: "Call for Cost"
 
 Planned Parenthood Salt Lake:

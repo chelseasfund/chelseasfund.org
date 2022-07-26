@@ -56,6 +56,8 @@ _**Please Note:** We make no recommendations as to which is best for
 
 ### <span style="color: #A569BD">Wyoming</span>
 
+**Abortions remain legal in Wyoming through July 26th, 2022.**
+
 In Wyoming, parental consent is required for patients under age 18.  A
 judge may excuse you from this requirement. Contact clinics for more
 information.
@@ -83,19 +85,21 @@ information.
 ### <span style="color: #DC7633">Utah</span>
 
 **Litigation challenging Utah’s effective abortion ban following the
-recent Supreme Court decision is ongoing. Check with the clinics
-to see if they are open.**
+recent Supreme Court decision is ongoing. A prelimanry injunction is
+currently in place preserving the abilty to get an abortion. This is a
+developing situation so please check with the clinics to see if they
+are open.**
 
 In Utah, parental consent is required for patients under age 18. A
 judge may excuse you from this requirement. Contact clinics for more
 information.
 
-**Utah requires participating in a state-directed, in-person
-counseling session 72 hours before beginning an abortion procedure,
-often necessitating two trips to the provider. However, you MAY be able 
-to satisfy this requirement with a telehealth (phone) session. Be sure to ask.** 
-Those able to access clinics in Wyoming, Colorado, or Montana should 
-consider whether one of those clinics, where no such counseling 
+Utah requires participating in a state-directed, in-person counseling
+session 72 hours before beginning an abortion procedure, often
+necessitating two trips to the provider. However, you MAY be able to
+satisfy this requirement with a telehealth (phone) session. Be sure to
+ask. Those able to access clinics in Wyoming, Colorado, or Montana
+should consider whether one of those clinics, where no such counseling
 (and extra trip) is required, is a better option.
 
 {% include providers.html state='UT' color='#DC7633' %}
