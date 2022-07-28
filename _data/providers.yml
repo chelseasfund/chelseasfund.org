@@ -105,7 +105,7 @@ Boulder Abortion Clinic:
 
 Planned Parenthood Billings:
   name: "Planned Parenthood, Billings"
-  note:
+  note: "This clinic is temporarily closed due to water damage. Please contact the Helena Planned Parenthood for more info."
   state: "MT"
   address: "100 West Wicks Lane, Billings, MT"
   url: "https://www.plannedparenthood.org/health-center/montana/billings/59105/planned-parenthood-heights-2438-90790"
