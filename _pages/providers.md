@@ -56,7 +56,8 @@ _**Please Note:** We make no recommendations as to which is best for
 
 ### <span style="color: #A569BD">Wyoming</span>
 
-**Abortions remain legal in Wyoming through July 26th, 2022.**
+**Abortions [remain legal](https://www.jhnewsandguide.com/news/cops_courts/local/judge-temporarily-halts-wyoming-abortion-ban/article_a47f7ddf-3bc5-5b78-9ad3-3093f365eebe.html)
+  in Wyoming pending our ongoing lawsuit. Stay tuned for additional updates.**
 
 In Wyoming, parental consent is required for patients under age 18.  A
 judge may excuse you from this requirement. Contact clinics for more
