@@ -56,8 +56,8 @@ _**Please Note:** We make no recommendations as to which is best for
 
 ### <span style="color: #A569BD">Wyoming</span>
 
-**Abortions [remain legal](https://www.jhnewsandguide.com/news/cops_courts/local/abortion-ban-halted-after-wed-hearing-finds-possible-irreparable-harm/article_e432415d-7c76-5d2e-afee-eea34d5d95b9.html)
-  in Wyoming pending our ongoing lawsuit. Stay tuned for additional updates.**
+**Abortions remain legal in Wyoming pending our ongoing lawsuit. Stay
+  tuned for additional updates.**
 
 In Wyoming, parental consent is required for patients under age 18.  A
 judge may excuse you from this requirement. Contact clinics for more

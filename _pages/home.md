@@ -26,10 +26,12 @@ message. We will get back to you within 1 business day.
 
 **We recently [filed suit](/assets/files/2022-07-25_complaint.pdf) to
   stop the Wyoming abortion ban from taking effect on July 27th. In
-  response the court has
-  [temporarily blocked](https://www.jhnewsandguide.com/news/cops_courts/local/abortion-ban-halted-after-wed-hearing-finds-possible-irreparable-harm/article_e432415d-7c76-5d2e-afee-eea34d5d95b9.html)
+  response the court has [temporarily
+  blocked](https://www.jhnewsandguide.com/news/cops_courts/local/abortion-ban-halted-after-wed-hearing-finds-possible-irreparable-harm/article_e432415d-7c76-5d2e-afee-eea34d5d95b9.html)
   Wyoming's abortion ban from going into effect until they can hear
-  the case on Augest 9th. Stay tuned for additional updates.**
+  the case on Augest 9th. You can read the [court's order
+  here](/assets/files/2022-07-28_order.pdf). Stay tuned for
+  additional updates.**
 
 If you'd like to support abortion access in Wyoming, you can
 [donate to us online](https://www.paypal.com/donate?hosted_button_id=NR88FU8XPDRN6).
