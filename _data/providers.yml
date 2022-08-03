@@ -14,9 +14,9 @@ JustThePill.com:
   name: "JustThePill.com"
   note: "JustThePill is an online abortion provider that provides
          telehealth appointments and mails abortion pills to your home.
-         They are not currently providing service in Wyoming.
+         They are still providing service in Wyoming.
          Please contact them for additional information."
-  state: "CO"
+  state: "WY"
   url: "https://justthepill.com/"
   medication: "Up to 10 weeks after last period"  
   medication_cost: "$350"
