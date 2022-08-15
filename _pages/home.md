@@ -35,6 +35,7 @@ effect until they can hear the case. Stay tuned for additional
 updates.
 
 If you'd like to support abortion access in Wyoming, you can
-[donate to us online](https://www.paypal.com/donate?hosted_button_id=NR88FU8XPDRN6).
+donate to us via [PayPal](https://www.paypal.com/donate?hosted_button_id=NR88FU8XPDRN6)
+or [Venmo](https://venmo.com/?txn=pay&audience=friends&recipients=chelseasfund&note=Donation)
 See [About Us](/about/#donations) for more information and additional
 donation options.

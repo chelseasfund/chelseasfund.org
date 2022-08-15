@@ -39,17 +39,18 @@ result of lacking sufficient money.
 
 ## Donations
 
-Chelsea's Fund is all-volunteer. That means all donated funds,
-excepting negligible amounts for stamps, PO Box fees, etc., go
-entirely to helping individuals pay for the cost of the
-abortion. Consequently, any donation you make directly helps a Wyoming
-resident in a very stressful situation access critical reproductive
-health care and decision-making control over their own body. Please
-help us provide reproductive justice to Wyoming!
+Chelsea's Fund is run mainly by volunteers. Donated funds go mostly
+toward helping individuals pay for the cost of the abortion, excepting
+small amounts for operatings expenses and support staff.  Your
+donation helps a Wyoming resident in a very stressful situation access
+critical reproductive health care and decision-making control over
+their own body. Please help us provide reproductive justice to
+Wyoming!
 
-You can [**donate to us online** via
-PayPal](https://www.paypal.com/donate?hosted_button_id=NR88FU8XPDRN6). Or
-by **mailing a check** made out for "Chelsea's Fund" to:
+You can **donate to us online** via
+[PayPal](https://www.paypal.com/donate?hosted_button_id=NR88FU8XPDRN6) or
+[Venmo](https://venmo.com/?txn=pay&audience=friends&recipients=chelseasfund&note=Donation).
+Or by **mailing a check** made out for "Chelsea's Fund" to:
 
 Chelsea's Fund  
 P.O. Box 1472  
