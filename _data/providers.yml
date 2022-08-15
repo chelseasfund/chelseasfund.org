@@ -74,10 +74,10 @@ Boulder Valley Health Center:
   address: "2855 Valmont Rd, Boulder, CO"
   url: "http://www.boulderwomenshealth.org/"
   phone: "303-416-4112"
-  medication: "Up to 10 weeks after last period"  
-  medication_cost: "$500"
+  medication: "Up to 11 weeks after last period"  
+  medication_cost: "$560"
   procedural: "Up to 14 weeks after last period"  
-  procedural_cost: "$500 to $600"
+  procedural_cost: "$560 to $780"
 
 Comprehensive Women's Health Center:
   name: "Comprehensive Women’s Health Center"
