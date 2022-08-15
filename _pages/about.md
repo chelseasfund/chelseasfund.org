@@ -39,9 +39,9 @@ result of lacking sufficient money.
 
 ## Donations
 
-Chelsea's Fund is run mainly by volunteers. Donated funds go mostly
+Chelsea's Fund is run mostly by volunteers. Donated funds go
 toward helping individuals pay for the cost of the abortion, excepting
-small amounts for operatings expenses and support staff.  Your
+small amounts for operatings expenses and part-time support staff. Your
 donation helps a Wyoming resident in a very stressful situation access
 critical reproductive health care and decision-making control over
 their own body. Please help us provide reproductive justice to
