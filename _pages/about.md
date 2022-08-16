@@ -39,13 +39,13 @@ result of lacking sufficient money.
 
 ## Donations
 
-Chelsea's Fund is run mostly by volunteers. Donated funds go
-toward helping individuals pay for the cost of the abortion, excepting
-small amounts for operatings expenses and part-time support staff. Your
+Chelsea's Fund is run primarily by volunteers. Donated funds go toward
+helping individuals pay for the cost of the abortion, excepting small
+amounts for operatings expenses and part-time support staff. Your
 donation helps a Wyoming resident in a very stressful situation access
 critical reproductive health care and decision-making control over
-their own body. Please help us provide reproductive justice to
-Wyoming!
+their own body. Please help us provide access to healthcare and
+reproductive justice in Wyoming!
 
 You can **donate to us online** via
 [PayPal](https://www.paypal.com/donate?hosted_button_id=NR88FU8XPDRN6) or
