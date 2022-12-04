@@ -48,8 +48,9 @@ their own body. Please help us provide access to healthcare and
 reproductive justice in Wyoming!
 
 You can **donate to us online** via
-[PayPal](https://www.paypal.com/donate?hosted_button_id=NR88FU8XPDRN6) or
-[Venmo](https://venmo.com/?txn=pay&audience=friends&recipients=chelseasfund&note=Donation).
+[Credit Card](https://interland3.donorperfect.net/weblink/weblink.aspx?name=E360312&id=1){:target="_blank" rel="noopener"}
+or
+[Venmo](https://venmo.com/?txn=pay&audience=friends&recipients=chelseasfund&note=Donation){:target="_blank" rel="noopener"}.
 Or by **mailing a check** made out for "Chelsea's Fund" to:
 
 Chelsea's Fund  
