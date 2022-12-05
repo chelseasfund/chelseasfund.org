@@ -10,8 +10,8 @@ excerpt: "A 501(c)(3) non-profit working to ensure that all Wyoming
           residents are able to access and afford an abortion."
 ---
 
-**Preliminary Injunction Granted: Abortion remains legal in Wyoming at
-  this time. See the order [here](/assets/files/2022-08-10_injunction.pdf).**
+**Abortion remains legal in Wyoming at this time. See our [litigation
+  page](/litigation) for more information.**
 
 **Would you like to help support Chelsea's Fund? Join us on December
   8th for music and brews at our [upcoming Jackson, WY
@@ -29,14 +29,6 @@ review the page on [financial assistance](/financial) first), or feel
 you just need to speak to someone directly, **call us at
 {{site.author.phone }}**. If we don't answer, please leave a
 message. We will get back to you within 1 business day.
-
-We recently **[filed suit](/assets/files/2022-07-25_complaint.pdf) to
-stop the Wyoming abortion ban** from taking effect on July 27th. In
-response the court has [granted
-a](https://www.jhnewsandguide.com/this_just_in/judge-owens-grants-injunction-against-wyoming-abortion-ban/article_b4099dd0-9ccb-5911-8e69-5649111418a0.html)
-prelimanry injunction blocking Wyoming's abortion ban from going into
-effect until they can hear the case. Stay tuned for additional
-updates.
 
 If you'd like to support abortion access in Wyoming, you can
 donate to us via
