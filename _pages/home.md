@@ -13,10 +13,6 @@ excerpt: "A 501(c)(3) non-profit working to ensure that all Wyoming
 **Abortion remains legal in Wyoming at this time. See our [litigation
   page](/litigation) for more information.**
 
-**Would you like to help support Chelsea's Fund? Join us on December
-  8th for music and brews at our [upcoming Jackson, WY
-  fundraiser](https://secure.givelively.org/event/chelseas-fund/bans-off-and-beers-on-a-fundraiser-for-chelsea-s-fund)!**
-
 **Do you need assistance to access abortion services?** Chelsea’s Fund
 provides information about [abortion providers](/providers) relevant
 to Wyoming residents and offers [financial assistance](/financial) if
