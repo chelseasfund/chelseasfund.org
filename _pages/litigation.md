@@ -15,8 +15,10 @@ Court has granted a [preliminary
 injunction](/assets/files/2022-08-10_injunction.pdf) blocking
 Wyoming's abortion ban from going into effect until they can hear the
 case. In November of 2022, the District Court [referred the case]() to
-the Wyoming Supreme Court for decision. We are awaiting the Wyoming
-Supreme Court's decision on whether to accept the case.
+the Wyoming Supreme Court for decision. In December of 2022, the
+Wyoming Supreme Court [declined to
+hear](/assets/files/2022-12-20_decline.pdf) the case. We are awaiting
+the District Court's next steps in the case.
 
 ## Timeline
 
@@ -33,3 +35,7 @@ Supreme Court's decision on whether to accept the case.
                          from Wyoming Right to Life to intervene in the case.
 * November 30th, 2022 -- District Court [refers the case](/assets/files/2022-11-30_certification.pdf)
                          to the Wyoming Supreme Court.
+* December 20th, 2022 -- Wyoming Supreme Court [declines to hear](/assets/files/2022-12-20_decline.pdf)
+                         the case at this time.
+* December 29th, 2022 -- Wyoming Right to Life [files an appeal](/assets/files/2022-12-29_intervene_appeal.pdf)
+                         of their denied motion to intervene.
