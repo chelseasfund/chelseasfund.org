@@ -26,12 +26,12 @@ you just need to speak to someone directly, **call us at
 {{site.author.phone }}**. If we don't answer, please leave a
 message. We will get back to you within 1 business day.
 
-Worried you may become pregnant? [Plan
-B](https://www.plannedparenthood.org/learn/morning-after-pill-emergency-contraception/whats-plan-b-morning-after-pill)
-(emergency contraception, also know as "the morning after pill") is
+Worried you may become pregnant? **[Plan
+B](https://www.plannedparenthood.org/learn/morning-after-pill-emergency-contraception/whats-plan-b-morning-after-pill)**
+(**emergency contraception**, also know as "the morning after pill") is
 legal in Wyoming. It is available over-the-counter and no prescription
 is required. You can find Plan B at local pharmacies or for free via
-[Wellspring Health Access](https://wellspringaccess.org/).
+[Wellspring Health Access](https://wellspringaccess.org/){:target="_blank" rel="noopener"}.
 
 If you'd like to support abortion access in Wyoming, you can
 donate to us via
