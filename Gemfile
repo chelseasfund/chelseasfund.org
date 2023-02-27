@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # Jekyll Version
-gem "jekyll", "~> 4.3.1"
+gem "jekyll", "~> 4.3.2"
 
 # Jekyll Theme
 gem "minimal-mistakes-jekyll", "~> 4.24.0"
@@ -23,4 +23,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Added to work around https://github.com/jekyll/jekyll/issues/8523
-gem "webrick", "~> 1.7.0"
+gem "webrick", "~> 1.8.1"
