@@ -5,11 +5,12 @@ title: "Regional Abortion Providers"
 toc: true
 ---
 
-This page lists various abortion providers relevant to Wyoming and eastern Idaho residents.
-The information provided here is approximate and subject to change. It is
-intended to give you a starting point for your decision-making.
-Calling the clinics and discussing your personal situation will best
-provide you with the specific information relevant to your needs.
+This page lists various abortion providers relevant to Wyoming and
+eastern Idaho residents. The information provided here is approximate
+and subject to change. It is intended to give you a starting point for
+your decision-making. Calling the clinics and discussing your
+personal situation will best provide you with the specific information
+relevant to your needs.
 
 ## General Information
 
@@ -23,7 +24,7 @@ abortion methods:
 * **Procedural Abortion:** This method of abortion is generally available
     through the second trimester of pregnancy (up to 21 weeks after the
     first day of your last period). Depending on where you are in your
-    preganacy, it may be by vacuum aspiration or dilation and evacuation. 
+    pregnancy, it may be by vacuum aspiration or dilation and evacuation. 
 
 Abortion costs vary by provider and length of pregnancy. In general,
 later term abortions are more expensive than earlier term abortions,
@@ -56,8 +57,12 @@ _**Please Note:** We make no recommendations as to which is best for
 
 ### <span style="color: #A569BD">Wyoming</span>
 
-**Abortions remain legal in Wyoming pending our ongoing lawsuit. Stay
-  tuned for additional updates.**
+**Update (3/18/23): Governor Gordon today allowed a new abortion ban
+  to become law. Pending the outcome of an [upcoming Temporary
+  Restraining Order hearing](/litigation), abortion is now illegal in
+  Wyoming. Please contact [Colorado](#colorado), [Montana](#montana)
+  or [Utah](#utah) providers for to access abortion care. We can
+  [assist](/financial) you in getting care in those states.**
 
 In Wyoming, parental consent is required for patients under age 18.  A
 judge may excuse you from this requirement. Contact clinics for more
@@ -86,8 +91,8 @@ information.
 ### <span style="color: #DC7633">Utah</span>
 
 **Litigation challenging Utah’s effective abortion ban following the
-recent Supreme Court decision is ongoing. A prelimanry injunction is
-currently in place preserving the abilty to get an abortion. This is a
+recent Supreme Court decision is ongoing. A preliminary injunction is
+currently in place preserving the ability to get an abortion. This is a
 developing situation so please check with the clinics to see if they
 are open.**
 
