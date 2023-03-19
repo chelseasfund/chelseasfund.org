@@ -17,8 +17,18 @@ Wyoming's abortion ban from going into effect until they can hear the
 case. In November of 2022, the District Court [referred the case]() to
 the Wyoming Supreme Court for decision. In December of 2022, the
 Wyoming Supreme Court [declined to
-hear](/assets/files/2022-12-20_decline.pdf) the case. We are awaiting
-the District Court's next steps in the case.
+hear](/assets/files/2022-12-20_decline.pdf) the case.
+
+In March of 2023, the Wyoming legislator passed a new statewide
+abortion ban that overrides the ban our existing lawsuit
+contested. Governor Gordon allowed this new ban to pass into law in
+March 18th, 2023. This action again rendered abortion illegal in
+Wyoming. In response, we filed a [new
+lawsuit](/assets/files/2023-03-17_complaint.pdf) seeking to overturn
+this ban, as well as [a request](/assets/files/2023-03-17_motion.pdf)
+for a temporary restraining order blocking the ban until a court can
+rule on our case. We are awaiting the District Court's next steps in
+the case.
 
 ## Timeline
 
@@ -39,3 +49,11 @@ the District Court's next steps in the case.
                          the case at this time.
 * December 29th, 2022 -- Wyoming Right to Life [files an appeal](/assets/files/2022-12-29_intervene_appeal.pdf)
                          of their denied motion to intervene.
+* March 17th, 2023 -- In anticipation of a new Wyoming abortion ban that would override our existing lawsuit,
+                      Chelsea's Fund and other plaintiffs [file a new complaint](/assets/files/2023-03-17_complaint.pdf)
+                      contesting the legality of the new ban. We also [filed a request](/assets/files/2023-03-17_motion.pdf)
+                      for a temporary restraining order blocking the new ban until a court can rule on the merits of our lawsuit.
+* March 18th, 2023 -- Wyoming Governor Mark Gordon allows a new abortion ban in the state to become law,
+                      making abortion immediately illegal in Wyoming. The governor also signed a [ban on
+                      the use of medication abortion](https://www.npr.org/2023/03/18/1164515347/wyoming-ban-abortion-pills)
+                      that will take effect on July 1st, 2023.
