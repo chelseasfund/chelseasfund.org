@@ -4,7 +4,7 @@ layout: single
 title: "Abortion's Legality in Wyoming"
 ---
 
-**Abortion remains legal in Wyoming at this time.**
+**We are currently litigating the legality of abortion in Wyoming.**
 
 After the United States Supreme Court overturned Roe v Wade in June of
 2022, Chelsea's Fund has been involved in litigation to uphold the
