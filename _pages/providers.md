@@ -57,12 +57,10 @@ _**Please Note:** We make no recommendations as to which is best for
 
 ### <span style="color: #A569BD">Wyoming</span>
 
-**Update (3/18/23): Governor Gordon today allowed a new abortion ban
-  to become law. Pending the outcome of an [upcoming Temporary
-  Restraining Order hearing](/litigation), abortion is now illegal in
-  Wyoming. Please contact [Colorado](#colorado), [Montana](#montana)
-  or [Utah](#utah) providers for to access abortion care. We can
-  [assist](/financial) you in getting care in those states.**
+**Update (3/22/23): Abortion remains legal in Wyoming at this time. We
+  were granted a [Temporary Restraining Order](/litigation) blocking
+  the enforcement of Wyoming's new abortion ban. See the providers
+  below for in-state abortion services.**
 
 In Wyoming, parental consent is required for patients under age 18.  A
 judge may excuse you from this requirement. Contact clinics for more

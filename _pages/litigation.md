@@ -26,8 +26,10 @@ March 18th, 2023. This action again rendered abortion illegal in
 Wyoming. In response, we filed a [new
 lawsuit](/assets/files/2023-03-21_complaint.pdf) seeking to overturn
 this ban, as well as [a request](/assets/files/2023-03-17_motion.pdf)
-for a temporary restraining order blocking the ban until a court can
-rule on our case. We are awaiting the District Court's next steps in
+for a temporary restraining order (TRO) blocking the ban until a court
+can rule on our case. On March 22nd, 2023, our TRO request was
+granted, allowing abortion to remain legal in Wyoming until the court
+can hear our case. We are awaiting the District Court's next steps in
 the case.
 
 ## Timeline
@@ -57,3 +59,6 @@ the case.
                       making abortion immediately illegal in Wyoming. The governor also signed a [ban on
                       the use of medication abortion](https://www.npr.org/2023/03/18/1164515347/wyoming-ban-abortion-pills)
                       that will take effect on July 1st, 2023.
+* March 22nd, 2023 -- Judge Owens grants Chelsea's Fund's request for a temporary restraining order blocking the enforcement
+                      of Wyoming's new abortion ban until our case can be heard.
+                      

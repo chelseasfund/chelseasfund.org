@@ -10,14 +10,13 @@ excerpt: "A 501(c)(3) non-profit working to ensure that all Wyoming
           residents are able to access and afford an abortion."
 ---
 
-**Update (3/18/23):** Governor Gordon today allowed a new abortion ban
-  to become law. Pending the outcome of an [upcoming Temporary
-  Restraining Order hearing](/litigation), abortion is now illegal in
-  Wyoming. **Please contact [providers](/providers) in Colorado,
-  Montana, or Utah to access abortion care. We can
-  [assist](/financial) you in getting care in those states.** Governor
-  Gordon also signed into law a ban on medication abortion which goes
-  into effect on July 1, 2023.
+**Update (3/22/23): Abortion remains legal in Wyoming for now.** Judge
+  Owens [granted a temporary restraining order](/litigation) blocking
+  the enforcement of Wyoming's new abortion ban until our case can be
+  heard. JustThePill (telehealth) and Women's Health and Family Care
+  (Jackson, WY) are continuing to provide medication abortion in
+  Wyoming. **See our [providers](/providers) page for additional
+  details on available abortion services.**
 
 **Do you need assistance to access abortion services?** Chelsea’s Fund
 provides information about [abortion providers](/providers) relevant
