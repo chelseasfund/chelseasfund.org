@@ -19,8 +19,8 @@ the Wyoming Supreme Court for decision. In December of 2022, the
 Wyoming Supreme Court [declined to
 hear](/assets/files/2022-12-20_decline.pdf) the case.
 
-In March of 2023, the Wyoming legislator passed a new statewide
-abortion ban that overrides the ban our existing lawsuit
+In March of 2023, the Wyoming legislature passed a new statewide
+abortion ban that repeals and replaces the ban our existing lawsuit
 contested. Governor Gordon allowed this new ban to pass into law in
 March 18th, 2023. This action again rendered abortion illegal in
 Wyoming. In response, we filed a [new
