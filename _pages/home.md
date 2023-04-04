@@ -27,7 +27,7 @@ available to all, not just those with financial resources.
 
 If you have any questions, are ready to ask for assistance (ideally,
 review the page on [financial assistance](/financial) first), or feel
-you just need to speak to someone directly, **call us at
+you just need to speak to someone directly, **call or text us at
 {{site.author.phone }}**. If we don't answer, please leave a
 message. We will get back to you within 1 business day.
 

@@ -24,9 +24,9 @@ cost. Discuss your financial situation with the clinic, and ask them
 whether they have any means to reduce the price or know of other
 sources of support. _(Some clinics have their own funds to help reduce
 costs.)_
-4. **Call Chelsea's Fund at {{ site.author.phone }}**.
+4. **Call or text Chelsea's Fund at {{ site.author.phone }}**.
 
-**When you call**, one of our volunteers will ask you a few questions,
+**When you call or text**, one of our volunteers will ask you a few questions,
 which may include questions about your income, family support,
 children, and extenuating circumstances. We will also need to know:
 
