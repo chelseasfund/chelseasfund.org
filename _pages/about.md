@@ -40,17 +40,16 @@ result of lacking sufficient money.
 ## Donations
 
 Chelsea's Fund is run primarily by volunteers. Donated funds go toward
-helping individuals pay for the cost of the abortion, excepting small
+helping individuals pay for the cost of the abortion, our ongoing
+[litigation](/litigation) to keep abortion legal in Wyoming, and small
 amounts for operatings expenses and part-time support staff. Your
 donation helps a Wyoming resident in a very stressful situation access
 critical reproductive health care and decision-making control over
 their own body. Please help us provide access to healthcare and
 reproductive justice in Wyoming!
 
-You can **donate to us online** via
-[Credit Card](https://interland3.donorperfect.net/weblink/weblink.aspx?name=E360312&id=1){:target="_blank" rel="noopener"}
-or
-[Venmo](https://venmo.com/?txn=pay&audience=friends&recipients=chelseasfund&note=Donation){:target="_blank" rel="noopener"}.
+You can **[donate to us online](https://form-renderer-app.donorperfect.io/give/chelseas-fund/online-donation-form-w-paypal)**.
+
 Or by **mailing a check** made out for "Chelsea's Fund" to:
 
 Chelsea's Fund  

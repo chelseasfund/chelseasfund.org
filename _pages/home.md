@@ -38,10 +38,7 @@ legal in Wyoming. It is available over-the-counter and no prescription
 is required. You can find Plan B at local pharmacies or for free via
 [Wellspring Health Access](https://wellspringaccess.org/){:target="_blank" rel="noopener"}.
 
-If you'd like to support abortion access in Wyoming, you can
-donate to us via
-[Credit Card](https://interland3.donorperfect.net/weblink/weblink.aspx?name=E360312&id=1){:target="_blank" rel="noopener"}
-or
-[Venmo](https://venmo.com/?txn=pay&audience=friends&recipients=chelseasfund&note=Donation){:target="_blank" rel="noopener"}
+If you'd like to support abortion access in Wyoming, you can **[donate
+to us](https://form-renderer-app.donorperfect.io/give/chelseas-fund/online-donation-form-w-paypal)**.
 See [About Us](/about/#donations) for more information and additional
 donation options.

@@ -54,17 +54,18 @@ should be denied an abortion due to financial barriers.
 
 ## How can I donate to Chelsea's Fund?
 
-You may donate online via [our Paypal account](/about/#donations) or
+You may [donate online](https://form-renderer-app.donorperfect.io/give/chelseas-fund/online-donation-form-w-paypal) or
 you can mail your donation to Chelsea's Fund, PO Box 1472,
 Lander, WY 82520. See our [About Us](/about/#donations) page for more
-information. Thanks for asking!
+information. Thank you for your support!
 
 ## How will my donation be used?
 
-Chelsea's Fund is all-volunteer. That means all donated funds,
-excepting negligible amounts for stamps, P.O. Box fees, etc., go
-entirely to help people pay for the cost of the abortion. See our
-[About Us](/about) page for more information.
+Chelsea's Fund is primarly staffed by volunteers. That means the bulk
+of your donated funds go entirely to help people pay for the cost of
+the abortion. At this time, we are also using donations to support out
+[ongoing litigation](/litigation) to keep Abortion legal in
+Wyoming. See our [About Us](/about) page for more information.
 
 ## Where can I get affordable birth control?
 
