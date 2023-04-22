@@ -59,6 +59,7 @@ the case.
                       making abortion immediately illegal in Wyoming. The governor also signed a [ban on
                       the use of medication abortion](https://www.npr.org/2023/03/18/1164515347/wyoming-ban-abortion-pills)
                       that will take effect on July 1st, 2023.
-* March 22nd, 2023 -- Judge Owens grants Chelsea's Fund's request for a temporary restraining order blocking the enforcement
-                      of Wyoming's new abortion ban until our case can be heard.
+* March 22nd, 2023 -- Judge Owens grants Chelsea's Fund's request for a
+                      [temporary restraining order](/assets/files/2023-04-17_tro.pdf)
+                      blocking the enforcement of Wyoming's new abortion ban until our case can be heard.
                       
