@@ -10,6 +10,23 @@ Womens Health and Family Care:
   medication: "Up to 10 weeks after last period"  
   medication_cost: "$600"
 
+Wellspring Health Access:
+  name: "Wellspring Health Access"
+  note: "This clinic continues to provide abortions in Wyoming
+         while the state abortion ban is temporarily blocked
+         pending resolution of our lawsuit."
+  state: "WY"
+  address: "918 E. 2nd St., Casper, Wyoming"
+  url: "https://wellspringaccess.org/"
+  phone: "307-224-7851"
+  medication: "Up to 11 weeks after last period"
+  medication_cost: "$600"
+  procedural: "Up to 23 weeks and 4 days after last period"  
+  procedural_cost_details:
+    - "$600 - $750 for 11.6 to 13.6 weeks"
+    - "$1200 - $1600 for 13.6 to 17.6 weeks"
+    - "$2000 - $4000 for 17.6 to 23.6 weeks"
+
 JustThePill.com:
   name: "JustThePill.com"
   note: "JustThePill is an online abortion provider that provides
@@ -175,13 +192,3 @@ Wasatch Womens Center:
   medication_cost: "$450"
   procedural: "Up to 13.5 weeks after last period"  
   procedural_cost: "$450 to $550"
-
-Planned Parenthood Twin Falls:
-  name: "Planned Parenthood, Twin Falls"
-  note:
-  state: "ID"
-  address: "200 Second Ave N., Twin Falls, ID"
-  url: "https://www.plannedparenthood.org/health-center/idaho/twin-falls/83301/twin-falls-health-center-2938-91810"
-  phone: "800-769-0045"
-  medication: "Up to 11 weeks after last period"  
-  medication_cost: "Call for Cost"

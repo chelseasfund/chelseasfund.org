@@ -110,19 +110,8 @@ should consider whether one of those clinics, where no such counseling
 
 ### <span style="color: #CD6155">Idaho</span>
 
-**Litigation challenging Idaho’s effective abortion ban following the
-recent Supreme Court decision is ongoing. Check with the clinics
-to see if they are open.**
-
-In Idaho, parental consent is required for patients under age 18. A
-judge may excuse you from this requirement. Contact clinics for more
-information.
-
-**Idaho requires participating in a state-directed counseling session
-24 hours before beginning an abortion procedure.** This may require
-multiple trips to the provider. If you are able to access clinics in
-Wyoming, Colorado, or Montana, consider whether one of
-those clinics, where no such counseling (and extra trip) is
-required, is a better option for you.
+**An abortion ban is currently in effect in Idaho except in cases of
+  emergency. But you still have options. See
+  [ineedana.com](http://ineedana.com/) for details.**
 
 {% include providers.html state='ID' color='#CD6155' %}

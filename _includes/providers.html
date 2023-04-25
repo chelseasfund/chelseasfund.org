@@ -67,6 +67,16 @@
         {% if provider.procedural_cost %}
         &mdash; <strong>{{ provider.procedural_cost }}</strong>
         {% endif %}
+        {% if provider.procedural_cost_details %}
+        <ul>
+          {% for detail in provider.procedural_cost_details %}
+          <li>
+            <i class="fas fa-fw fa-money-bill" aria-hidden="true"></i>
+            <strong>{{ detail }}</strong>
+          </li>
+          {% endfor %}
+        </ul>
+        {% endif %}
       </li>
       {% endif %}
       
