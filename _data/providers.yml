@@ -7,7 +7,7 @@ Womens Health and Family Care:
   address: "555 E Broadway, Suite 108, Jackson, Wyoming"
   url: "https://whfcjackson.com/"
   phone: "307-734-1313"
-  medication: "Up to 10 weeks after last period"  
+  medication: "Up to 10 weeks after last period"
   medication_cost: "$600"
 
 Wellspring Health Access:
@@ -21,11 +21,11 @@ Wellspring Health Access:
   phone: "307-224-7851"
   medication: "Up to 11 weeks after last period"
   medication_cost: "$600"
-  procedural: "Up to 23 weeks and 4 days after last period"  
+  procedural: "Up to 23 weeks and 6 days after last period"
   procedural_cost_details:
-    - "$600 - $750 for 11.6 to 13.6 weeks"
-    - "$1200 - $1600 for 13.6 to 17.6 weeks"
-    - "$2000 - $4000 for 17.6 to 23.6 weeks"
+    - "$600 - $750 for 11 to 14 weeks"
+    - "$1200 - $1600 for 14 to 18 weeks"
+    - "$2000 - $4000 for 18 to 23 weeks and 6 days"
 
 JustThePill.com:
   name: "JustThePill.com"
@@ -35,7 +35,7 @@ JustThePill.com:
          Please contact them for additional information."
   state: "WY"
   url: "https://justthepill.com/"
-  medication: "Up to 10 weeks after last period"  
+  medication: "Up to 10 weeks after last period"
   medication_cost: "$350"
 
 Planned Parenthood FtCo:
@@ -45,9 +45,9 @@ Planned Parenthood FtCo:
   address: "825 South Shields St, Suite 4, Fort Collins, CO"
   url: "https://www.plannedparenthood.org/health-center/colorado/fort-collins/80521/fort-collins-4087-90210"
   phone: "970-493-0281"
-  medication: "Up to 11 weeks after last period"  
+  medication: "Up to 11 weeks after last period"
   medication_cost: "$560"
-  procedural: "Up to 19 weeks and 6 days after last period"  
+  procedural: "Up to 19 weeks and 6 days after last period"
   procedural_cost: "$500 to $1400"
 
 Healthy Futures For Women:
@@ -57,9 +57,9 @@ Healthy Futures For Women:
   address: "300 East Hampden Ave, Suite 201, Englewood, CO"
   url: "http://www.healthyfuturesforwomen.com/"
   phone: "303-991-7700"
-  medication: "Up to 10 weeks after last period"  
+  medication: "Up to 10 weeks after last period"
   medication_cost: "$440"
-  procedural: "Up to 20 weeks after last period"  
+  procedural: "Up to 20 weeks after last period"
   procedural_cost: "$440 to $2500"
 
 Planned Parenthood Stapleton:
@@ -71,7 +71,7 @@ Planned Parenthood Stapleton:
   phone: "303-321-2458"
   medication: "Up to 11 weeks after last period"
   medication_cost: "$560"
-  procedural: "Up to 22 weeks after last period"  
+  procedural: "Up to 22 weeks after last period"
   procedural_cost: "$500 to $1400"
 
 Planned Parenthood Steamboat:
@@ -91,9 +91,9 @@ Boulder Valley Health Center:
   address: "2855 Valmont Rd, Boulder, CO"
   url: "http://www.boulderwomenshealth.org/"
   phone: "303-416-4112"
-  medication: "Up to 11 weeks after last period"  
+  medication: "Up to 11 weeks after last period"
   medication_cost: "$560"
-  procedural: "Up to 14 weeks after last period"  
+  procedural: "Up to 14 weeks after last period"
   procedural_cost: "$560 to $780"
 
 Comprehensive Women's Health Center:
@@ -103,21 +103,21 @@ Comprehensive Women's Health Center:
   address: "8111 E Lowery Blvd, Suite 250, Denver, CO"
   url: "https://cwhccolorado.com/"
   phone: "303-724-8576"
-  medication: "Up to 10 weeks after last period"  
+  medication: "Up to 10 weeks after last period"
   medication_cost: "$450"
-  procedural: "Up to 21 weeks after last period"  
+  procedural: "Up to 21 weeks after last period"
   procedural_cost: "$350 to $2150"
 
 Boulder Abortion Clinic:
   name: "Boulder Abortion Clinic"
-  note: "This clinic is one of the few in the nation to offer 
+  note: "This clinic is one of the few in the nation to offer
          late-term abortions. Earlier-term
          abortions are generally less expensive at other clinics."
   state: "CO"
   address: "1130 Alpine Avenue, Boulder, CO"
   url: "http://www.drhern.com/"
   phone: "303-447-1361"
-  procedural: "Up to 26 weeks after last period"  
+  procedural: "Up to 26 weeks after last period"
   procedural_cost: "Call for Cost"
 
 Planned Parenthood Billings:
@@ -127,7 +127,7 @@ Planned Parenthood Billings:
   address: "100 West Wicks Lane, Billings, MT"
   url: "https://www.plannedparenthood.org/health-center/montana/billings/59105/planned-parenthood-heights-2438-90790"
   phone: "406-869-5040"
-  medication: "Up to 11 weeks after last period"  
+  medication: "Up to 11 weeks after last period"
   medication_cost: "$500 to $700"
   procedural: "Up to 18 weeks after last period"
   procedural_cost: "$1100 to $1700. Add $125 for sedation."
@@ -139,9 +139,9 @@ Planned Parenthood Helena:
   address: "1500 Cannon, Helena, MT"
   url: "https://www.plannedparenthood.org/health-center/montana/helena/59601/planned-parenthood-helena-2443-90790"
   phone: "406-443-7676"
-  medication: "Up to 11 weeks after last period"  
+  medication: "Up to 11 weeks after last period"
   medication_cost: "$500 to $700"
-  procedural: "Up to 16 weeks after last period"  
+  procedural: "Up to 16 weeks after last period"
   procedural_cost: "$1100 to $1700. Add $125 for sedation."
 
 Blue Mountain Clinic:
@@ -152,9 +152,9 @@ Blue Mountain Clinic:
   address: "610 N. California, Missoula, MT"
   url: "http://www.bluemountainclinic.org/"
   phone: "406-721-1646"
-  medication: "Up to 10 weeks after last period"  
+  medication: "Up to 10 weeks after last period"
   medication_cost: "Call for Cost"
-  procedural: "Up to 16 weeks after last period"  
+  procedural: "Up to 16 weeks after last period"
   procedural_cost: "Call for Cost"
 
 All Families Healthcare:
@@ -164,9 +164,9 @@ All Families Healthcare:
   address: "737 Spokane Avenue, Whitefish, MT"
   url: "https://www.allfamilieshealth.org/"
   phone: "406-730-8682"
-  medication: "Up to 11 weeks after last period"  
+  medication: "Up to 11 weeks after last period"
   medication_cost: "Call for Cost"
-  procedural: "Up to 12 weeks after last period"  
+  procedural: "Up to 12 weeks after last period"
   procedural_cost: "Call for Cost"
 
 Planned Parenthood Salt Lake:
@@ -176,9 +176,9 @@ Planned Parenthood Salt Lake:
   address: "160 South 1000 East, Suite 120, Salt Lake City, UT"
   url: "https://www.plannedparenthood.org/health-center/utah/salt-lake-city/84102/metro-health-center-3958-91730"
   phone: "801-257-6789"
-  medication: "Up to 10 weeks after last period"  
+  medication: "Up to 10 weeks after last period"
   medication_cost: "Call for Cost"
-  procedural: "Up to 17 weeks and 6 days after last period"  
+  procedural: "Up to 17 weeks and 6 days after last period"
   procedural_cost: "Call for Cost"
 
 Wasatch Womens Center:
@@ -188,7 +188,7 @@ Wasatch Womens Center:
   address: "715 E. 3900 S. #203, Salt Lake City, UT"
   url: "http://www.wasatchwomenscenter.net/"
   phone: "801-263-2111"
-  medication: "Up to 9 weeks after last period"  
+  medication: "Up to 9 weeks after last period"
   medication_cost: "$450"
-  procedural: "Up to 13.5 weeks after last period"  
+  procedural: "Up to 13 weeks and 5 days after last period"
   procedural_cost: "$450 to $550"
