@@ -49,17 +49,28 @@ the case.
                          to the Wyoming Supreme Court.
 * December 20th, 2022 -- Wyoming Supreme Court [declines to hear](/assets/files/2022-12-20_decline.pdf)
                          the case at this time.
-* December 29th, 2022 -- Wyoming Right to Life [files an appeal](/assets/files/2022-12-29_intervene_appeal.pdf)
+* December 29th, 2022 -- Wyoming Right to Life
+                         [files an appeal](/assets/files/2022-12-29_intervene_appeal.pdf)
                          of their denied motion to intervene.
 * March 17th, 2023 -- In anticipation of a new Wyoming abortion ban that would override our existing lawsuit,
-                      Chelsea's Fund and other plaintiffs [file a new complaint](/assets/files/2023-03-21_complaint.pdf)
-                      contesting the legality of the new ban. We also [filed a request](/assets/files/2023-03-17_motion.pdf)
-                      for a temporary restraining order blocking the new ban until a court can rule on the merits of our lawsuit.
+                      Chelsea's Fund and other plaintiffs
+                      [file a new complaint](/assets/files/2023-03-21_complaint.pdf)
+                      contesting the legality of the new ban. We also
+                      [filed a request](/assets/files/2023-03-17_motion.pdf)
+                      for a temporary restraining order blocking the new ban until a court can
+                      rule on the merits of our lawsuit.
 * March 18th, 2023 -- Wyoming Governor Mark Gordon allows a new abortion ban in the state to become law,
-                      making abortion immediately illegal in Wyoming. The governor also signed a [ban on
-                      the use of medication abortion](https://www.npr.org/2023/03/18/1164515347/wyoming-ban-abortion-pills)
+                      making abortion immediately illegal in Wyoming. The governor also signed a
+                      [ban on the use of medication
+                      abortion](https://www.npr.org/2023/03/18/1164515347/wyoming-ban-abortion-pills)
                       that will take effect on July 1st, 2023.
 * March 22nd, 2023 -- Judge Owens grants Chelsea's Fund's request for a
                       [temporary restraining order](/assets/files/2023-04-17_tro.pdf)
                       blocking the enforcement of Wyoming's new abortion ban until our case can be heard.
-                      
+* May 10th, 2023 -- Chelsea's Fund and other plaintiffs submit a
+                    [motion for a temporary restraining order](/assets/files/2023-05-10_tro_motion.pdf)
+                    blocking the enforcement of the medication abortion ban
+                    slated to take effect on July 1st, 2023. Chelsea's Fund et al. also submitted a
+                    [memorandum of support](/assets/files/2023-05-10_memo.pdf)
+                    outlining our arguments for not enforcing the pending ban.
+                    
