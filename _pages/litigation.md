@@ -73,4 +73,6 @@ the case.
                     slated to take effect on July 1st, 2023. Chelsea's Fund et al. also submitted a
                     [memorandum of support](/assets/files/2023-05-10_memo.pdf)
                     outlining our arguments for not enforcing the pending ban.
+* May 25th, 2023 -- The State of Wyoming files [their response](/assets/files/2023-05-12_wy_tro_response.pdf)
+                    to our request for a TRO.
                     
