@@ -75,4 +75,6 @@ the case.
                     outlining our arguments for not enforcing the pending ban.
 * May 25th, 2023 -- The State of Wyoming files [their response](/assets/files/2023-05-12_wy_tro_response.pdf)
                     to our request for a TRO.
+* June 9th, 2023 -- Chelsea's Fund and other plaintiffs [file a reply](/assets/files/2023-06-09_tro_reply.pdf)
+                    to the State's response to the TRO.
                     
