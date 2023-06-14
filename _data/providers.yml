@@ -111,26 +111,24 @@ Comprehensive Women's Health Center:
 Boulder Abortion Clinic:
   name: "Boulder Abortion Clinic"
   note: "This clinic is one of the few in the nation to offer
-         late-term abortions. Earlier-term
-         abortions are generally less expensive at other clinics."
+         late-term abortions. Earlier-term abortions are
+         generally less expensive at other clinics."
   state: "CO"
   address: "1130 Alpine Avenue, Boulder, CO"
-  url: "http://www.drhern.com/"
+  url: "https://www.drhern.com/"
   phone: "303-447-1361"
   procedural: "Up to 26 weeks after last period"
   procedural_cost: "Call for Cost"
 
-Planned Parenthood Billings:
-  name: "Planned Parenthood, Billings"
-  note: "This clinic is temporarily closed due to water damage. Please contact the Helena Planned Parenthood for more info."
+Planned Parenthood Billings West:
+  name: "Planned Parenthood, Billings West"
+  note:
   state: "MT"
-  address: "100 West Wicks Lane, Billings, MT"
-  url: "https://www.plannedparenthood.org/health-center/montana/billings/59105/planned-parenthood-heights-2438-90790"
-  phone: "406-869-5040"
+  address: "1844 Broadwater Ave #4, Billings, MT"
+  url: "https://www.plannedparenthood.org/health-center/montana/billings/59102/planned-parenthood-west-2441-90790"
+  phone: "406-656-9980"
   medication: "Up to 11 weeks after last period"
-  medication_cost: "$500 to $700"
-  procedural: "Up to 18 weeks after last period"
-  procedural_cost: "$1100 to $1700. Add $125 for sedation."
+  medication_cost: "$555"
 
 Planned Parenthood Helena:
   name: "Planned Parenthood, Helena"
@@ -141,20 +139,30 @@ Planned Parenthood Helena:
   phone: "406-443-7676"
   medication: "Up to 11 weeks after last period"
   medication_cost: "$500 to $700"
-  procedural: "Up to 16 weeks after last period"
-  procedural_cost: "$1100 to $1700. Add $125 for sedation."
+  procedural: "Up to 21 weeks and 6 days after last period"
+  procedural_cost: "$1015 to $1675"
+
+Planned Parenthood Great Falls:
+  name: "Planned Parenthood, Great Falls"
+  note:
+  state: "MT"
+  address: "211 9th Street South, Great Falls, MT"
+  url: "https://www.plannedparenthood.org/health-center/montana/great-falls/59405/planned-parenthood-great-falls-2442-90790"
+  phone: "406-454-3431"
+  medication: "Up to 11 weeks after last period"
+  medication_cost: "$500 to $700"
 
 Blue Mountain Clinic:
   name: "Blue Mountain Clinic"
   note: "Listed here as a possible option for early second trimester abortions for
          Teton County area residents."
   state: "MT"
-  address: "610 N. California, Missoula, MT"
-  url: "http://www.bluemountainclinic.org/"
+  address: "610 North California Street, Missoula, MT"
+  url: "https://www.bluemountainclinic.org/"
   phone: "406-721-1646"
-  medication: "Up to 10 weeks after last period"
+  medication: "Up to 11 weeks after last period"
   medication_cost: "Call for Cost"
-  procedural: "Up to 16 weeks after last period"
+  procedural: "Up to 21 weeks and 6 days after last period"
   procedural_cost: "Call for Cost"
 
 All Families Healthcare:
