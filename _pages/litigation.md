@@ -77,4 +77,7 @@ the case.
                     to our request for a TRO.
 * June 9th, 2023 -- Chelsea's Fund and other plaintiffs [file a reply](/assets/files/2023-06-09_tro_reply.pdf)
                     to the State's response to the TRO.
-                    
+* June 2nd, 2023 -- Judge Owens denies the Motion to Intervene by Right to Life Wyoming, Representatives
+                    Rachel Rodriguez-Williams and Chip Nieman, and Secretary of State Chuck Gray.
+* June 22nd, 2023 -- Judge Owens grants Temporary Restraining Order blocking enforcement of the medication
+                     abortion ban from taking effect on July 1st.
