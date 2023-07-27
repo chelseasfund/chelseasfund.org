@@ -12,7 +12,7 @@ excerpt: "A 501(c)(3) non-profit working to ensure that all Wyoming
 
 **Abortion remains legal and available in Wyoming at this time.**
   Our ongoing [litigation](/litigation) has resulted in all current
-  Wyoming abortion bans being stayed while the litigtion proceeds.
+  Wyoming abortion bans being stayed while the litigation proceeds.
   JustThePill (telehealth), Women's Health and Family Care
   (Jackson, WY), and Wellspring Health Access (Casper, WY) are
   continuing to provide abortion services in Wyoming.

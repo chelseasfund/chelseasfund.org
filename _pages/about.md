@@ -42,7 +42,7 @@ result of lacking sufficient money.
 Chelsea's Fund is run primarily by volunteers. Donated funds go toward
 helping individuals pay for the cost of the abortion, our ongoing
 [litigation](/litigation) to keep abortion legal in Wyoming, and small
-amounts for operatings expenses and part-time support staff. Your
+amounts for operating expenses and part-time support staff. Your
 donation helps a Wyoming resident in a very stressful situation access
 critical reproductive health care and decision-making control over
 their own body. Please help us provide access to healthcare and
