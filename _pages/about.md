@@ -61,6 +61,11 @@ Chelsea's Fund is recognized by the IRS as a 501(c)(3) non-profit
 organization, EIN 83-0322262. Donations are deductible to the extent allowed by
 law.
 
+## Press
+
+For media or administrative inquires, please contact
+[info@chelseasfund.org](mailto:info@chelseasfund.org).
+
 ## Website
 
 The Chelsea's Fund website is built using

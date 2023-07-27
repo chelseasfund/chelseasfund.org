@@ -10,13 +10,14 @@ excerpt: "A 501(c)(3) non-profit working to ensure that all Wyoming
           residents are able to access and afford an abortion."
 ---
 
-**Update (3/22/23): Abortion remains legal in Wyoming for now.** Judge
-  Owens [granted a temporary restraining order](/litigation) blocking
-  the enforcement of Wyoming's new abortion ban until our case can be
-  heard. JustThePill (telehealth) and Women's Health and Family Care
-  (Jackson, WY) are continuing to provide medication abortion in
-  Wyoming. **See our [providers](/providers) page for additional
-  details on available abortion services.**
+**Abortion remains legal and available in Wyoming at this time.**
+  Our ongoing [litigation](/litigation) has resulted in all current
+  Wyoming abortion bans being stayed while the litigtion proceeds.
+  JustThePill (telehealth), Women's Health and Family Care
+  (Jackson, WY), and Wellspring Health Access (Casper, WY) are
+  continuing to provide abortion services in Wyoming.
+  **See our [providers](/providers) page for additional
+  details on available options.**
 
 **Do you need assistance to access abortion services?** Chelsea’s Fund
 provides information about [abortion providers](/providers) relevant
@@ -42,3 +43,6 @@ If you'd like to support abortion access in Wyoming, you can **[donate
 to us](https://form-renderer-app.donorperfect.io/give/chelseas-fund/online-donation-form-w-paypal)**.
 See [About Us](/about/#donations) for more information and additional
 donation options.
+
+**For all media, donation, or administrative inquires, please email
+[info@chelseasfund.org](mailto:info@chelseasfund.org).**
