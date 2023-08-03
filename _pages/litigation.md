@@ -82,3 +82,10 @@ the case.
 * July 20th, 2023 -- Judge Owens [denies](/assets/files/2023-07-20_order.pdf) the Motion to Intervene
                      by Right to Life Wyoming, Representatives Rachel Rodriguez-Williams and Chip Nieman,
                      and Secretary of State Chuck Gray.
+* August 2nd, 2023 -- Chelsea's Fund and other plaintiffs submit an
+                      [expert witness designation](/assets/files/2023-08-02_expert_designation.pdf)
+                      including the folowing witnesses:
+    - [Dr. Ghazaleh Moayedi](/assets/files/2023-08-02_expert_a.pdf) ([CV](/assets/files/2023-08-02_expert_b.pdf))
+    - [Prof. Rebecca Peters](/assets/files/2023-08-02_expert_c.pdf) ([CV](/assets/files/2023-08-02_expert_d.pdf))
+    - [Rabbi Danya Rutenberg](/assets/files/2023-08-02_expert_e.pdf) ([CV](/assets/files/2023-08-02_expert_f.pdf))
+    - [Michael A. Blonigen](/assets/files/2023-08-02_expert_g.pdf) ([CV](/assets/files/2023-08-02_expert_h.pdf))
